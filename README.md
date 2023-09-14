@@ -1,3 +1,5 @@
+Preview: https://colab.research.google.com/github/spandan-kumar/market-predection/blob/main/stock_market_predictor.ipynb
+
 Nifty50 Price Prediction using scikit-learn
 This project aims to predict the price of the Nifty50 index using machine learning techniques implemented in Python. The prediction model is built using scikit-learn library, which provides a wide range of machine learning algorithms and tools.
 
